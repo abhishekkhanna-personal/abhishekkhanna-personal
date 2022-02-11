@@ -1,0 +1,5 @@
+- 👋 Hi, I am @abhishekkhanna-personal
+- 👀 I am interested in software development
+- 🌱 I am currently learning azure
+- 💞️ I am not looking to collaborate on anything at the moment
+- 📫 You cannot reach me at this time
